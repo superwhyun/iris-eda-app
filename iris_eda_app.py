@@ -5,6 +5,7 @@ def main():
     st.subheader("Streamlit is cool")
     st.subheader("WYSWYG")
     st.subheader("I have to refresh the web browser")
+    st.subheader("What the FUCK");
 
 
 
